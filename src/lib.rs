@@ -1,36 +1,14 @@
 use pyo3::prelude::*;
 
-#[pyclass]
-struct RustVector {
-    data: Vec<i32>,
-}
+mod vector;
+mod stack;
 
-#[pymethods]
-impl RustVector {
-    #[new]
-    fn new() -> Self {
-        RustVector { data: Vec::new() }
-    }
-
-    fn push(&mut self, value: i32) {
-        self.data.push(value);
-    }
-
-    fn pop(&mut self) -> Option<i32> {
-        self.data.pop()
-    }
-
-    fn len(&self) -> usize {
-        self.data.len()
-    }
-
-    fn get(&self, index: usize) -> Option<i32> {
-        self.data.get(index).copied()
-    }
-}
+use vector::Vector;
+use stack::Stack;
 
 #[pymodule]
 fn rust_ds_lib(_py: Python, m: &PyModule) -> PyResult<()> {
-    m.add_class::<RustVector>()?;
+    m.add_class::<Vector>()?;
+    m.add_class::<Stack>()?;
     Ok(())
 }
