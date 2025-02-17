@@ -1,0 +1,14 @@
+C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\deps\libpyo3_build_config-d7ea9530ee5b62f5.rmeta: C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\lib.rs C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\errors.rs C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\impl_.rs C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config-file.txt C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config.txt
+
+C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\deps\libpyo3_build_config-d7ea9530ee5b62f5.rlib: C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\lib.rs C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\errors.rs C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\impl_.rs C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config-file.txt C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config.txt
+
+C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\deps\pyo3_build_config-d7ea9530ee5b62f5.d: C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\lib.rs C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\errors.rs C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\impl_.rs C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config-file.txt C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config.txt
+
+C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\lib.rs:
+C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\errors.rs:
+C:\Users\jayki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.21.2\src\impl_.rs:
+C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config-file.txt:
+C:\Users\jayki\OneDrive\Documents\CODE\Rust\rust_ds_lib\target\debug\build\pyo3-build-config-ed415cd2851354c8\out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.21.2
+# env-dep:OUT_DIR=C:\\Users\\jayki\\OneDrive\\Documents\\CODE\\Rust\\rust_ds_lib\\target\\debug\\build\\pyo3-build-config-ed415cd2851354c8\\out
